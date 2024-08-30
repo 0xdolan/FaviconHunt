@@ -1,6 +1,6 @@
 # **FaviconHunt** 🚀
 
-Welcome to **FaviconHunt**, a repository dedicated to the collection and analysis of favicon hashes. This collection includes **36,698** unique favicon hashes gathered as part of OSINT activities in Bug Bounties.
+Welcome to **FaviconHunt**, a repository dedicated to the collection and analysis of favicon hashes. This collection includes **37,452** unique favicon hashes gathered as part of OSINT activities in Bug Bounties.
 
 ## **Screenshot Gallery** 🖼️
 
@@ -14,7 +14,7 @@ Favicon.ico hashes can be a powerful tool in the reconnaissance phase of cyberse
 
 ## **Features** ✨
 
-- **Massive Collection:** Over **36,000** favicon hashes for comprehensive analysis.
+- **Massive Collection:** Over **37,000** favicon hashes for comprehensive analysis.
 - **Easy Integration:** Ready-to-use hashes for your OSINT tools and scripts.
 - **Community Contribution:** Open to contributions and improvements from the community.
 
